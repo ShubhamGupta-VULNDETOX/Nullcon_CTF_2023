@@ -2,7 +2,6 @@
 
 This challenge was notably different from the standard web challenges I'm familiar with, as it required knowledge of `AES` vulnerabilities in `ECB` mode.
 In this case, the source code contained a particularly suspicious section of code:
-
 ```py
 def parse(self, c):
     d = {}
