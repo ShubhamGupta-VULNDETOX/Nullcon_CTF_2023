@@ -1,4 +1,4 @@
-dThis was IPFilters's source code:
+This was IPFilters's source code:
 
 ```php
 <?php
